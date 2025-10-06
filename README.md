@@ -4,7 +4,7 @@ Detect Hard Hat and Hi-Viz jackets over RTSP streams with Python and deliver ale
 
 ## Features
 - **detect_ py scripts**: Detects an event within a polygon, defined within the file. Called with command line arguments. Supports secure RTSP streams.
-- **backend/**: RESTful API for saving images too detected from the python scripts.
+- **backend/**: RESTful API for saving images that have been detected from the python scripts.
 
 - Easy setup with Python virtual environments and Node.js dependencies. 
 - Manage multiple streams with PM2 
