@@ -355,7 +355,7 @@ async def process_video():
 
                                                 # Upload image using cURL
                                                 curl_command = (
-                                                    f'curl -X POST http://79.177.160.64:3000/upload '
+                                                    f'curl -X POST http://localhost:3000/upload '
                                                     f'-H "Authorization: Bearer 1233333333.'
                                                     f'12313123312312312312.'
                                                     f'12312312331-33333" '
